@@ -1,0 +1,202 @@
+
+/* 最新 最热页面开始 */
+/* 商品展示 */
+.show-goods {
+    width: 100%;
+    background-color: #F7F7F7;
+
+}
+
+.goods-box {
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 25px;
+    overflow: hidden;
+}
+
+.goods-box ul {
+    overflow: hidden;
+}
+
+.goods-box .goods-list li img,
+.goods-box .load-list li img {
+    width: 220px;
+    height: 120px;
+    border-radius: 5px 5px 0 0;
+}
+
+.goods-box .goods-list li,.goods-box .load-list li {
+    width: 220px;
+    /* height: 230px; */
+    border: 1px solid #E6E9E9;
+    border-radius: 5px;
+    /* box-sizing: border-box; */
+    background-color: #fff;
+    float: left;
+    margin: 0 37px 20px 0;
+}
+
+.goods-box .goods-list li:nth-child(4n),
+.goods-box .load-list li:nth-child(4n) {
+    margin-right: 0px;
+}
+
+.goods-box .goods-list li .goods-msg,
+.goods-box .load-list li .goods-msg {
+    width: 100%;
+    height: 100%;
+    padding: 7px 10px 10px;
+    box-sizing: border-box;
+}
+
+.goods-box .goods-list li .goods-msg .title ,
+.goods-box .load-list li .goods-msg .title {
+    font-size: 14px;
+    color: #474747;
+}
+
+.goods-box .goods-list li .goods-msg .title span,
+.goods-box .load-list li .goods-msg .title span{
+    display: block;
+    font-size: 12px;
+    color: #a3a3a3;
+    /* float: left; */
+}
+
+.goods-box .goods-list li .goods-msg .price-box,
+.goods-box .load-list li .goods-msg .price-box{
+    padding: 13px 0px;
+    overflow: hidden;
+}
+
+.goods-box .goods-list li .goods-msg .price-box .price,
+.goods-box .load-list li .goods-msg .price-box .price{
+    color: #fe5314;
+    font-size: 14px;
+    float: left;
+}
+
+.goods-box .goods-list li .goods-msg .price-box .xin,
+.goods-box .load-list li .goods-msg .price-box .xin {
+    background: url('../img/icons/xin.png') no-repeat left center;
+    padding-left: 14px;
+}
+
+.goods-box .goods-list li .goods-msg .price-box .replay,
+.goods-box .load-list li .goods-msg .price-box .replay{
+    background: url('../img/icons/reply.png') no-repeat left center;
+    padding-left: 14px;
+}
+
+.goods-box .goods-list li .goods-msg .price-box span:nth-child(2),
+.goods-box .goods-list li .goods-msg .price-box span:nth-child(3) ,
+.goods-box .load-list li .goods-msg .price-box span:nth-child(2),
+.goods-box .load-list li .goods-msg .price-box span:nth-child(3){
+    font-size: 12px;
+    color: #a3a3a3;
+    /* float: right; */
+    margin-left: 3px;
+    float: right;
+    margin-top: 1px;
+}
+.goods-box .goods-list li:hover,
+.goods-box .load-list li:hover {
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    transform: scale(1.01);
+}
+/* 最新 最热页面结束 */
+/* 加载更多 */
+.load-more {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0 50px;
+}
+
+.load-more a {
+    /* display:inline-block; */
+    /* width: 100%; */
+    color: #fe5431;
+    background: url('../img/icons/more.png') no-repeat left center;
+    padding-left: 25px;
+}
+
+/* 品类页面开始 */
+.goods-list3 li {
+    width: 1000px;
+    /* height: 300px; */
+    border: 1px solid #ebecec;
+    border-radius: 6px;
+    box-sizing: border-box;
+    background-color: #fff;
+    margin-bottom: 25px;
+}
+
+.goods-list3 li dl dt {
+    width: 100%;
+    padding: 0px 0px 0px 30px;
+    margin: 19px 0;
+    box-sizing: border-box;
+    border-left: 6px solid #fe5431;
+    height: 25px;
+    line-height: 25px;
+}
+
+.goods-list3 li dl dd:nth-child(2) {
+    padding: 0 13px 18px;
+    border-bottom: 1px dashed #E0E0E0;
+}
+
+.goods-list3 li dl dd:nth-child(3) {
+    padding: 12px 13px 15px;
+}
+
+.goods-list3 li dl dd .goods-icons {
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+}
+
+@keyframes runIcons {
+    0% {
+        transform: rotate(0);
+    }
+
+    50% {
+        transform: rotate(180deg) scale(1.1);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+.goods-list3 li dl dd .goods-icons:hover img {
+    animation: runIcons 1s linear;
+    cursor: pointer;
+
+}
+
+.goods-list3 li dl dd .goods-icons:hover p {
+    color: #fe5431;
+}
+
+.goods-list3 li dl dd img {
+    margin: 12px 0;
+}
+
+.goods-list3 li dl dd p {
+    font-size: 14px;
+    color: #a3a3a3;
+    width: 150px;
+    text-align: center;
+    display: inline-block;
+}
+
+.goods-list3 li dl dd p:hover {
+    color: #fe5431;
+    cursor: pointer;
+}
+
+.goods-list3 li dl dd:last-child p {
+    margin-bottom: 20px;
+}

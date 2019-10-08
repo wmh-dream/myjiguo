@@ -1,0 +1,100 @@
+.sq-nav{
+    height: 50px;
+    line-height: 50px;
+    box-sizing: border-box;
+}
+.sy-nav{
+    border-bottom:1px solid #E6E9E9; 
+}
+.warp .kw-nav .sy-light{
+    color: #474747;
+}
+.show-goods .goods-list{
+    overflow: hidden;
+}
+.show-goods .goods-list li{
+    width: 220px;
+    border:1px solid #E6E9E9;
+    border-radius: 5px;
+    position: relative;
+    float: left;
+    margin: 0 37px 20px 0;
+    cursor: pointer;
+}
+.show-goods .goods-list li:nth-of-type(4n){
+    margin-right: 0;
+}
+.show-goods .goods-list li img{
+    width: 220px;
+    height: 130px;
+    border-radius: 5px 5px 0 0 ;
+}
+.show-goods .goods-list li .goods-msg{
+    width: 100%;
+    padding: 8px 8px 14px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #fff;
+}
+.show-goods .goods-list li .goods-msg .title{
+    font-family: '微软雅黑';
+    font-weight:bold;
+}
+.show-goods .goods-list li .goods-msg .goods-num span{
+    width: 50px;
+    height: 25px;
+    border: 1px solid ;
+    display: inline-block;
+    margin: 10px 5px;
+    font-size: 12px;
+    line-height: 25px;
+}
+.show-goods .goods-list li .goods-msg .num-gray{
+    border-color: #E6E9E9;
+    border-radius: 5px;
+    color: #ccc;
+}
+.show-goods .goods-list li .goods-msg .num-green{
+    border-color: #80c269;
+    border-radius: 5px;
+    color: #80c269;
+}
+.show-goods .goods-list li .goods-msg .num-red{
+    border-color: #fe5314;
+    border-radius: 5px;
+    color: #fe5314;
+}
+.show-goods .goods-list li .goods-msg .num-sq span{
+    color: #fe5314;
+    
+}
+.show-goods .goods-list li .goods-msg .num-bg{
+font-size: 14px;
+margin-top: 5px;
+}
+.show-goods .goods-list li .first-pub{
+    position: absolute;
+    padding: 0px 8px;
+    height: 20px;
+    border-radius: 0 5px ;
+    font-size: 12px;
+    text-align: center;
+    line-height: 20px;
+    
+    top: 0;
+    right: 0;
+}
+.show-goods .goods-list li #color1{
+    background-color: #fe5314;
+    color: #f5e8e8;  
+}
+.show-goods .goods-list li #color2{
+    background: #fbf4cb;
+    color: #c4a96a
+}
+.goods-box .goods-list li:hover,
+.goods-box .load-list li:hover {
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    transform: scale(1.01);
+}
+

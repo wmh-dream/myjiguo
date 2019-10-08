@@ -1,0 +1,378 @@
+[
+    [{
+        "img": "../img/kgr/k1.jpg",
+        "title": "SCiO 微型光谱仪",
+        "tip": "可以测定食物成分及营养",
+        "price": "￥ 1212"
+    }, {
+        "img": "../img/kgr/k2.jpg",
+        "title": "B&O BeoSound 35 音响",
+        "tip": "支持所有音乐流媒体服务",
+        "price": "￥ 512"
+    }, {
+        "img": "../img/kgr/k3.jpg",
+        "title": "Mozbii 触控吸色笔",
+        "tip": "能吸取65000种颜色",
+        "price": "￥ 暂无"
+    }, {
+        "img": "../img/kgr/k4.jpg",
+        "title": "XPLORER 2 航拍飞行器",
+        "tip": "搭载自动避障系统",
+        "price": "￥ 433"
+    }, {
+        "img": "../img/kgr/k1.jpg",
+        "title": "SCiO 微型光谱仪",
+        "tip": "可以测定食物成分及营养",
+        "price": "￥ 1212"
+    }, {
+        "img": "../img/kgr/k2.jpg",
+        "title": "B&O BeoSound 35 音响",
+        "tip": "支持所有音乐流媒体服务",
+        "price": "￥ 512"
+    }, {
+        "img": "../img/kgr/k3.jpg",
+        "title": "Mozbii 触控吸色笔",
+        "tip": "能吸取65000种颜色",
+        "price": "￥ 暂无"
+    }, {
+        "img": "../img/kgr/k4.jpg",
+        "title": "XPLORER 2 航拍飞行器",
+        "tip": "搭载自动避障系统",
+        "price": "￥ 433"
+    }, {
+        "img": "../img/kgr/k1.jpg",
+        "title": "SCiO 微型光谱仪",
+        "tip": "可以测定食物成分及营养",
+        "price": "￥ 1212"
+    }, {
+        "img": "../img/kgr/k2.jpg",
+        "title": "B&O BeoSound 35 音响",
+        "tip": "支持所有音乐流媒体服务",
+        "price": "￥ 512"
+    }, {
+        "img": "../img/kgr/k3.jpg",
+        "title": "Mozbii 触控吸色笔",
+        "tip": "能吸取65000种颜色",
+        "price": "￥ 暂无"
+    }, {
+        "img": "../img/kgr/k4.jpg",
+        "title": "XPLORER 2 航拍飞行器",
+        "tip": "搭载自动避障系统",
+        "price": "￥ 433"
+    }, {
+        "img": "../img/kgr/k1.jpg",
+        "title": "SCiO 微型光谱仪",
+        "tip": "可以测定食物成分及营养",
+        "price": "￥ 1212"
+    }, {
+        "img": "../img/kgr/k2.jpg",
+        "title": "B&O BeoSound 35 音响",
+        "tip": "支持所有音乐流媒体服务",
+        "price": "￥ 512"
+    }, {
+        "img": "../img/kgr/k3.jpg",
+        "title": "Mozbii 触控吸色笔",
+        "tip": "能吸取65000种颜色",
+        "price": "￥ 暂无"
+    }, {
+        "img": "../img/kgr/k4.jpg",
+        "title": "XPLORER 2 航拍飞行器",
+        "tip": "搭载自动避障系统",
+        "price": "￥ 433"
+    }],
+    [{
+            "img": "../img/kgr/k4.jpg",
+            "title": "XPLORER 2 航拍飞行器",
+            "tip": "搭载自动避障系统",
+            "price": "￥ 433"
+        }, {
+            "img": "../img/kgr/k3.jpg",
+            "title": "Mozbii 触控吸色笔",
+            "tip": "能吸取65000种颜色",
+            "price": "￥ 暂无"
+        }, {
+            "img": "../img/kgr/k1.jpg",
+            "title": "SCiO 微型光谱仪",
+            "tip": "可以测定食物成分及营养",
+            "price": "￥ 1212"
+        }, {
+            "img": "../img/kgr/k2.jpg",
+            "title": "B&O BeoSound 35 音响",
+            "tip": "支持所有音乐流媒体服务",
+            "price": "￥ 512"
+        }, {
+            "img": "../img/kgr/k3.jpg",
+            "title": "Mozbii 触控吸色笔",
+            "tip": "能吸取65000种颜色",
+            "price": "￥ 暂无"
+        }, {
+            "img": "../img/kgr/k4.jpg",
+            "title": "XPLORER 2 航拍飞行器",
+            "tip": "搭载自动避障系统",
+            "price": "￥ 433"
+        }, {
+            "img": "../img/kgr/k1.jpg",
+            "title": "SCiO 微型光谱仪",
+            "tip": "可以测定食物成分及营养",
+            "price": "￥ 1212"
+        }, {
+            "img": "../img/kgr/k2.jpg",
+            "title": "B&O BeoSound 35 音响",
+            "tip": "支持所有音乐流媒体服务",
+            "price": "￥ 512"
+        }, {
+            "img": "../img/kgr/k3.jpg",
+            "title": "Mozbii 触控吸色笔",
+            "tip": "能吸取65000种颜色",
+            "price": "￥ 暂无"
+        }, {
+            "img": "../img/kgr/k4.jpg",
+            "title": "XPLORER 2 航拍飞行器",
+            "tip": "搭载自动避障系统",
+            "price": "￥ 433"
+        }, {
+            "img": "../img/kgr/k2.jpg",
+            "title": "B&O BeoSound 35 音响",
+            "tip": "支持所有音乐流媒体服务",
+            "price": "￥ 512"
+        }, {
+            "img": "../img/kgr/k3.jpg",
+            "title": "Mozbii 触控吸色笔",
+            "tip": "能吸取65000种颜色",
+            "price": "￥ 暂无"
+        }
+
+    ],
+    [{
+        "title": "生活",
+        "good_icons": [{
+            "img": "../img/cat/cat_1.png",
+            "text": "空气净化器（21）"
+        },{
+            "img": "../img/cat/cat_2.png",
+            "text": "吸尘器（21）"
+        },{
+            "img": "../img/cat/cat_3.png",
+            "text": "扫地机器人（21）"
+        },{
+            "img": "../img/cat/cat_4.png",
+            "text": "电风扇（21）"
+        },{
+            "img": "../img/cat/cat_5.png",
+            "text": "净水壶（21）"
+        },{
+            "img": "../img/cat/cat_6.png",
+            "text": "电饭煲（21）"
+        },{
+            "img": "../img/cat/cat_7.png",
+            "text": "咖啡机（21）"
+        },{
+            "img": "../img/cat/cat_8.png",
+            "text": "原汁机（21）"
+        }],
+        "p_text": [{
+            "t": "空气净化器（21）"
+        },{
+            "t": "吸尘器（21）"
+        },{
+            "t": "扫地机器人（21）"
+        },{
+            "t": "净水壶（21）"
+        },{
+            "t": "电饭煲（21）"
+        },{
+            "t": "咖啡机（21）"
+        },{
+            "t": "原汁机（21）"
+        },{
+            "t": "电视（21）"
+        },{
+            "t": "空调（21）"
+        },{
+            "t": "洗衣机（21）"
+        },{
+            "t": "加湿器（21）"
+        },{
+            "t": "净水壶（21）"
+        },{
+            "t": "热水器（21）"
+        },{
+            "t": "咖啡机（21）"
+        },{
+            "t": "原汁机（21）"
+        },{
+            "t": "消毒/洗碗机（21）"
+        }]
+    },{
+        "title": "个人护理",
+        "good_icons": [{
+            "img": "../img/cat/cat_9.png",
+            "text": "电动牙刷（21）"
+        },{
+            "img": "../img/cat/cat_10.png",
+            "text": "剃须刀（21）"
+        },{
+            "img": "../img/cat/cat_11.png",
+            "text": "按摩器（21）"
+        }],
+        "p_text": [{
+            "t": "冲牙器（21）"
+        },{
+            "t": "洁面仪（21）"
+        },{
+            "t": "蒸面器（21）"
+        },{
+            "t": "加湿器（21）"
+        }]
+    },{
+        "title": "健康",
+        "good_icons": [{
+            "img": "../img/cat/cat_9.png",
+            "text": "电动牙刷（21）"
+        },{
+            "img": "../img/cat/cat_10.png",
+            "text": "剃须刀（21）"
+        },{
+            "img": "../img/cat/cat_11.png",
+            "text": "按摩器（21）"
+        }],
+        "p_text": [{
+            "t": "冲牙器（21）"
+        },{
+            "t": "洁面仪（21）"
+        },{
+            "t": "蒸面器（21）"
+        },{
+            "t": "加湿器（21）"
+        }]
+    },{
+        "title": "智能穿戴",
+        "good_icons": [{
+            "img": "../img/cat/cat_9.png",
+            "text": "电动牙刷（21）"
+        },{
+            "img": "../img/cat/cat_4.png",
+            "text": "剃须刀（21）"
+        },{
+            "img": "../img/cat/cat_5.png",
+            "text": "按摩器（21）"
+        },{
+            "img": "../img/cat/cat_6.png",
+            "text": "电动牙刷（21）"
+        },{
+            "img": "../img/cat/cat_7.png",
+            "text": "剃须刀（21）"
+        },{
+            "img": "../img/cat/cat_8.png",
+            "text": "按摩器（21）"
+        }],
+        "p_text": [{
+            "t": "冲牙器（21）"
+        },{
+            "t": "洁面仪（21）"
+        },{
+            "t": "蒸面器（21）"
+        },{
+            "t": "加湿器（21）"
+        }]
+    },{
+        "title": "出行",
+        "good_icons": [{
+            "img": "../img/cat/cat_11.png",
+            "text": "电动牙刷（21）"
+        },{
+            "img": "../img/cat/cat_2.png",
+            "text": "剃须刀（21）"
+        },{
+            "img": "../img/cat/cat_9.png",
+            "text": "按摩器（21）"
+        }],
+        "p_text": [{
+            "t": "冲牙器（21）"
+        },{
+            "t": "洁面仪（21）"
+        },{
+            "t": "蒸面器（21）"
+        },{
+            "t": "加湿器（21）"
+        }]
+    },{
+        "title": "户外运动",
+        "good_icons": [{
+            "img": "../img/cat/cat_10.png",
+            "text": "电动牙刷（21）"
+        },{
+            "img": "../img/cat/cat_8.png",
+            "text": "剃须刀（21）"
+        },{
+            "img": "../img/cat/cat_5.png",
+            "text": "按摩器（21）"
+        }],
+        "p_text": [{
+            "t": "冲牙器（21）"
+        },{
+            "t": "洁面仪（21）"
+        },{
+            "t": "蒸面器（21）"
+        },{
+            "t": "加湿器（21）"
+        }]
+    },{
+        "title": "摄影",
+        "good_icons": [{
+            "img": "../img/cat/cat_3.png",
+            "text": "电动牙刷（21）"
+        },{
+            "img": "../img/cat/cat_2.png",
+            "text": "剃须刀（21）"
+        },{
+            "img": "../img/cat/cat_9.png",
+            "text": "按摩器（21）"
+        }],
+        "p_text": [{
+            "t": "冲牙器（21）"
+        },{
+            "t": "洁面仪（21）"
+        },{
+            "t": "蒸面器（21）"
+        },{
+            "t": "加湿器（21）"
+        }]
+    },{
+        "title": "手机",
+        "good_icons": [{
+            "img": "../img/cat/cat_9.png",
+            "text": "电动牙刷（21）"
+        }],
+        "p_text": [{
+            "t": "冲牙器（21）"
+        },{
+            "t": "洁面仪（21）"
+        },{
+            "t": "蒸面器（21）"
+        },{
+            "t": "加湿器（21）"
+        }]
+    }
+],[{
+    "img": "../img/kgr/k1.jpg",
+    "title": "SCiO 微型光谱仪",
+    "tip": "可以测定食物成分及营养",
+    "price": "￥ 1212"
+}, {
+    "img": "../img/kgr/k2.jpg",
+    "title": "B&O BeoSound 35 音响",
+    "tip": "支持所有音乐流媒体服务",
+    "price": "￥ 512"
+}, {
+    "img": "../img/kgr/k3.jpg",
+    "title": "Mozbii 触控吸色笔",
+    "tip": "能吸取65000种颜色",
+    "price": "￥ 暂无"
+}, {
+    "img": "../img/kgr/k4.jpg",
+    "title": "XPLORER 2 航拍飞行器",
+    "tip": "搭载自动避障系统",
+    "price": "￥ 433"
+}]
+]

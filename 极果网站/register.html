@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/register.css">
+</head>
+
+<body>
+    <!-- 头部 -->
+    <header>
+        <div class="head">
+            <img src="./img/others/logonew.png" alt="" width="133" height="55">
+            <ul>
+                <li><a href="./index.html" class="home page">首页</a></li>
+                <li><a href="play/index.html">酷玩</a></li>
+                <li><a href="shopper/index.html">导购</a></li>
+                <li><a href="trial/index.html">试用</a></li>
+                <li><a href="">报告</a></li>
+            </ul>
+            <a href="" id="search"> <img src="./img/icons/search.png" alt="" width="28" height="32"></a>
+            <a href="" id="register">注册</a>
+        </div>
+    </header>
+
+
+
+
+    <!-- 注册 -->
+    <section class="report-box regMain">
+        <div class="wrap regBox">
+            <h2 class="title">注册极果</h2>
+            <form class="regForm" name="my_f1" action="" method="post" onsubmit="return check(this);">
+                <p><input type="text" placeholder="请输入登录手机号" pattern="^1[34578][0-9]{9}$" required="required"
+                        name="tel" /></p>
+
+                <p>
+                    <input type="text" placeholder="请输入图片校验码" required="required" name="imgCode" />
+                    <img src="./img/others/imgCode.jpg" width="132" height="35" />
+                </p>
+
+                <p>
+                    <input type="text" placeholder="请输入4位数字验证码" pattern="^\d{4}$" required="required" name="code" />
+                    <a href="javascript:void(0)" class="getCode">获取验证码</a>
+                </p>
+
+                <p><input type="text" placeholder="请输入用户名" required="required" /></p>
+
+                <p><input type="password" placeholder="请输入新密码" required="required" name="psw1" /></p>
+
+                <p><input type="password" placeholder="确定新密码" required="required" name="psw2" /></p>
+
+                <p><button id="submit">立即注册</button></p>
+            </form>
+        </div>
+    </section>
+
+
+    <!-- 底部 脚注-->
+    <footer>
+        <section>
+            <div class="footnote">
+                <div class="code">
+                    <img src="./img/others/code.png" alt="" width="160" height="160">
+                </div>
+                <div class="one">
+                    <img src="./img/others/logoImg.jpg" alt="">
+                    <p> 全球酷玩试用导购平台<br>
+                        酷·新奇·好玩·品质
+
+                    </p>
+
+                    <p>
+                        微信添加“JguoJguo” <br>
+                        获取我们的服务。
+                    </p>
+                </div>
+
+                <div class="two">
+                    <p>免费试用</p>
+                    <p>试用流程<br>
+                        如何提高成功率
+                    </p>
+
+                </div>
+                <div class="three">
+                    <p>友情链接</p>
+                    <p>
+                        智东西 <br>
+
+                        搜狐IT <br>
+                        搜狐数码 <br>
+                        凤凰数码 <br>
+                        泡泡网 <br>
+                        ZUK社区 <br>
+                        极客公园 <br>
+                        果库
+                    </p>
+
+                    <p>
+                        腾讯科技<br>
+                        凤凰科技<br>
+                        PConline<br>
+                        3W咖啡<br>
+                        亿觅emie<br>
+                        易迅易启玩
+                    </p>
+
+                </div>
+
+                <div class="four">
+                    <p>购买攻略</p>
+                    <p>
+                        美亚海淘教程<br>
+                        日亚海淘教程<br>
+                        海淘转运攻略<br>
+                        kickstarter 众筹购买攻略<br>
+                        indiegogo 众筹购买攻略
+                    </p>
+
+                </div>
+
+                <div class="five">
+                    <p>厂商合作</p>
+                    <p>
+                        关于极果<br>
+                        联系我们<br>
+                        商务合作：BD@jiguo.com<br>
+                        CEO邮箱：CEO@jiguo.com
+                    </p>
+
+                </div>
+
+
+            </div>
+
+            <div class="six">
+                <p>© 2016 极果版权所有</p>
+
+            </div>
+
+            <div class="seven">
+                <img src="./img/icons/back.png" alt="">
+
+            </div>
+        </section>
+
+    </footer>
+
+
+    <script src="./js/index.js">
+    </script>
+</body>
+
+</html>

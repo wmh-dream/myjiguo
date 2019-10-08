@@ -1,0 +1,497 @@
+[
+    [{
+        "img": "../img/hot/hot5.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-gray"
+    }, {
+        "img": "../img/hot/hot9.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-green"
+    }, {
+        "img": "../img/hot/hot11.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-gray"
+    }, {
+        "img": "../img/hot/hot12.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "剩余时间2天",
+        "class": "num-red"
+    }, {
+        "img": "../img/hot/hot1.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-red"
+    }, {
+        "img": "../img/hot/hot2.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-green"
+    }, {
+        "img": "../img/hot/hot3.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-gray"
+    }, {
+        "img": "../img/hot/hot4.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "剩余时间2天",
+        "class": "num-red"
+    }, {
+        "img": "../img/hot/hot5.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-red"
+    }, {
+        "img": "../img/hot/hot6.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-green"
+    }, {
+        "img": "../img/hot/hot7.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "剩余时间2天",
+        "class": "num-red"
+    }, {
+        "img": "../img/hot/hot8.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "剩余时间2天",
+        "class": "num-red"
+    }, {
+        "img": "../img/hot/hot2.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "查看试用名单",
+        "class": "num-green"
+    }, {
+        "img": "../img/hot/hot9.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-gray"
+    }, {
+        "img": "../img/hot/hot12.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "剩余时间2天",
+        "class": "num-red"
+    }, {
+        "img": "../img/hot/hot11.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "剩余时间2天",
+        "class": "num-red"
+    }],
+    [{
+        "img": "../img/hot/hot3.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-red",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot4.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "查看试用名单",
+        "class": "num-red",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot6.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "报告数量：8",
+        "class": "num-red",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot7.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "剩余时间2天",
+        "class": "num-red",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot5.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-red",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot9.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-red",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot11.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-red",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot10.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "剩余时间2天",
+        "class": "num-red",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot2.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-red",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot12.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-red",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot11.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "剩余时间2天",
+        "class": "num-red",
+        "tip": "首发",
+        "id": "color1"
+    }],[{
+        "img": "../img/hot/hot7.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-green",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot10.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "查看试用名单",
+        "class": "num-green",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot2.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "报告数量：8",
+        "class": "num-green",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot9.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "剩余时间2天",
+        "class": "num-green",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot5.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-green",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot9.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-green",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot11.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-green",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot12.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "剩余时间2天",
+        "class": "num-green",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot1.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-green",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot2.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-green",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot3.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "剩余时间2天",
+        "class": "num-green",
+        "tip": "首发",
+        "id": "color1"
+    },{
+        "img": "../img/hot/hot4.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-green",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot5.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "剩余时间2天",
+        "class": "num-green",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot6.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-green",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot12.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-green",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot11.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "剩余时间2天",
+        "class": "num-green",
+        "tip": "体验师专享",
+        "id": "color2"
+    }],[{
+        "img": "../img/hot/hot7.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot10.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "查看试用名单",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot2.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot9.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "剩余时间2天",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot5.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot9.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-gray",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot11.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot12.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "剩余时间2天",
+        "class": "num-gray",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot1.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot2.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot3.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "剩余时间2天",
+        "class": "num-gray",
+        "tip": "首发",
+        "id": "color1"
+    },{
+        "img": "../img/hot/hot4.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot5.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "剩余时间2天",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot6.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot12.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-gray",
+        "tip": "首发",
+        "id": "color1"
+    }, {
+        "img": "../img/hot/hot11.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "剩余时间2天",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }],[{
+        "img": "../img/hot/hot8.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot12.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "查看试用名单",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot2.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot9.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "剩余时间2天",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot5.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot4.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot5.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot1.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "剩余时间2天",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot3.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot2.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot3.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "剩余时间2天",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    },{
+        "img": "../img/hot/hot9.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot5.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "剩余时间2天",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot6.jpg",
+        "title": "巴慕达 The Toaster 烤面包机",
+        "num_bg": "报告数量：8",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot12.jpg",
+        "title": "Osprey小鹰户外运动专业腰包",
+        "num_bg": "查看试用名单",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }, {
+        "img": "../img/hot/hot11.jpg",
+        "title": "Liquid Image 338 运动摄像眼镜",
+        "num_bg": "剩余时间2天",
+        "class": "num-gray",
+        "tip": "体验师专享",
+        "id": "color2"
+    }]
+]
